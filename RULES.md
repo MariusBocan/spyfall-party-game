@@ -7,7 +7,7 @@ Rules: <br>
     5. Spy's Goal: As a spy, listen to the answers and try to guess the location. If you think you know, say, “I am the spy, the location is X!” If you’re right, you win. If you’re wrong, you lose. <br>
     6. Have Fun: Enjoy the game! <br>
  <br>
-Example Game: <br>
+Example: <br>
 There are 5 players and Player 3 is the spy. The location is "Beach". <br>
   Player 1 asks player 5: “What can you do there?” <br>
   Player 5: “You can play volleyball, football, badminton, or just drink something.” <br>
